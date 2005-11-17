@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: Net-Download-Queue
-version: 0.03_01
+version: 0.04
 author:
   - Johan Lindstrom <johanl@cpan.org>
 abstract: Download files with one or more workers.

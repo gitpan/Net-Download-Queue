@@ -61,7 +61,7 @@ use Net::Download::Queue::DownloadStatus;
 
 
 
-our $VERSION = '0.03_01';
+our $VERSION = '0.04';
 
 
 

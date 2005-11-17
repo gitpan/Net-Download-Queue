@@ -8,7 +8,7 @@ WriteMakefile
           'EXE_FILES' => [
                            'bin/download_queue'
                          ],
-          'VERSION_FROM' => 'lib\\Net\\Download\\Queue.pm',
+          'VERSION_FROM' => 'lib/Net/Download/Queue.pm',
           'PREREQ_PM' => {
                            'Class::DBI::SQLite' => 0,
                            'DBI::Shell' => 0,

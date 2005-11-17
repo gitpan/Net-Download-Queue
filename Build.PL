@@ -7,7 +7,7 @@ my $builder = Module::Build->new(
     module_name         => 'Net::Download::Queue',
     license             => 'perl',
     dist_author         => 'Johan Lindstrom <johanl@cpan.org>',
-    dist_version_from   => 'lib\Net\Download\Queue.pm',
+    dist_version_from   => 'lib/Net/Download/Queue.pm',
     requires => {
         'Test::More' => 0,
 

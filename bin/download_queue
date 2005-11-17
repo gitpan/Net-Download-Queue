@@ -127,7 +127,9 @@ sub syntax {
 
 __END__
 
-=head1 NAME - download_queue
+=head1 NAME
+
+download_queue
 
 
 =head1 OPTIONS
